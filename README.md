@@ -2,8 +2,19 @@
 
 Sistema web de painel administrativo com autenticação de usuários e gerenciamento completo (CRUD) de **usuários, clientes e produtos**, além da geração de relatórios em PDF.
 
+![Login](imagens/login.png)
+
+![Código de Acesso do Email](imagens/codigoAcesso.png)
+
+![Esqueci Senha](imagens/senha.png)
+
 ![Dashboard](imagens/dashboard.png)
 
+![Cadastrar usuário](imagens/cadastrar.png)
+
+![Listar usuários do banco de dados](imagens/listar.png)
+
+![PDF com todos os dados da tabela do banco de dados de usuários](imagens/pdf.png)
 ---
 
 ## 🚀 Funcionalidades
