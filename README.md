@@ -142,7 +142,11 @@ $pass = "";  <-- Coloque a senha caso você tenha no seu XAMPP
 $db = "painel_dashboard";
 
 ```
+## Estrutura das tabelas no banco de dados
 
+![Tabela Usuários](imagens/estrutura_usuarios.png)
+![Tabela Clientes](imagens/estrutura_clientes.png)
+![Tabela Produtos](imagens/estrutura_produtos.png)
 ---
 
 🔒 Requisitos
